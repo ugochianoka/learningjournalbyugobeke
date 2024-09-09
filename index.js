@@ -30,3 +30,7 @@ function about(){
     
     mainPostImg.classList.add('disabled')
 }
+
+function refresh() {
+    location.reload()
+}
