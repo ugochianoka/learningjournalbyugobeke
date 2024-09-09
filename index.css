@@ -247,6 +247,7 @@ footer p{
 /* ABOUT */
 .about-head img{
     margin: 0;
+    border-radius: 50%;
 }
 
 .about-head h2{
