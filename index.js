@@ -23,7 +23,7 @@ function about(){
     <div class="about-head">
     <img src="image1.jpeg" class="me-img">
     <div class="about-content">
-    <h2>Hi there! My name is Roku and welcome to my learning journal.</h2>
+    <h2>Hi there! My name is Ugochi and welcome to my learning journal.</h2>
     <p class="post">After several months of learning in the Frontend Developer Career Path, I've made the big jump over to the Bootcamp to get expert code reviews of my Solo Projects projects and meet like-minded peers.</p>
     </div>
     </div>`
